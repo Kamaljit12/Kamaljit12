@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamal Jit Singh</h1>
-<h3 align="center">A passionate in Data Field and I'm a data Engineer from India</h3>
+<h3 align="center">passionated in Data Field and I'm a data Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Kamaljit12/Kamaljit12/blob/main/gif3.gif"><br>
 
