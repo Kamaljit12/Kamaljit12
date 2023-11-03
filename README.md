@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamal Jit Singh</h1>
 <h3 align="center">A passionate in Data Field and I'm a data Engineer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/Kamaljit12/Kamaljit12/blob/main/gif3.gif"><br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamaljit12&label=Profile%20views&color=0e75b6&style=flat" alt="kamaljit12" /> </p>
 
-- ⚡ Fun fact **I Think I'm not mind blowing hungry for knowledge**
+- ⚡ Fun fact **I Think I'm hungry for knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
